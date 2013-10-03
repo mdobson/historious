@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <title>Test</title>
+  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.css" />
+  <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+  <script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+  <script src="apigee.js"></script>
+  <script>  
+    var apigee = new Apigee.Client({
+      orgName:"mdobson",
+      appName:"sandbox",
+      logging:true
+    });
+
+    function queryLocation(location) {
+      var lat = location.coords.latitude;
+      var lon = location.coords.longitude;
+
+      var query = "location within 1500 of "+lat+","+lon;
+
+      var options = {
+        type:"landmarks",
+        client:apigee,
+        qs:{
+          ql:query
+        }
+      };
+
+      var landmarks = new Apigee.Collection(options);
+      landmarks.fetch(function(error, result){
+        if(error) {
+          console.log("Error");
+        } else {
+          $("#entity-list").empty();
+          while(landmarks.hasNextEntity()) {
+            var landmark = landmarks.getNextEntity();
+            var city = "<p>"+landmark.get("city")+"</p>";
+            var name = "<h4>"+landmark.get("resource")+"</h4>";
+            var dataId = "data-apigee='"+landmark.get("uuid")+"'";
+            $("#entity-list").append("<li>"+"<a href='#landmark' "+dataId+">"+name+city+"</a></li>");
+          }
+          $("#entity-list").listview("refresh");
+        }
+      });
+
+    }
+
+    function getSingleLandmark(entityId, callback) {
+      var options = {
+        "type":"landmarks",
+        "uuid":entityId
+      }
+      apigee.getEntity(options, callback);
+    }
+
+    $(document).ready(function(){
+
+      $("a[href=#landmark]").live("click", function(){
+        var entityId = $(this).data("apigee");
+        $("#landmark").attr("data-apigee", entityId);
+        getSingleLandmark(entityId, function(error, landmark, response){
+          if(error) {
+            alert("Error!");
+          } else {
+            var resource = landmark.get("resource");
+            var city = landmark.get("city");
+            var addr = landmark.get("address");
+            var loc = landmark.get("location");
+            console.log(loc);
+            var staticMapsLink = "http://maps.googleapis.com/maps/api/staticmap?center="+loc.latitude+","+loc.longitude+"&zoom=14&size=200x200&markers=color:blue%7Clabel:S%7C"+loc.latitude+","+loc.longitude+"&sensor=false";
+
+
+            $("#map").attr('src', staticMapsLink);
+            $("#landmarkName").html(resource);
+            $("#name").html(resource);
+            $("#city").html(city);
+            $("#addr").html(addr);
+          }
+        });
+      });
+
+
+
+      $("#comment").live("click", function(){
+        var commentary = $("#commentary").val();
+        var id = $("#landmark").data("apigee");
+        apigee.getLoggedInUser(function(error, data, user){
+          var options = {
+            "type":"comments",
+            "content":encodeURIComponent(commentary),
+            "by":user.get("username")
+          };
+          apigee.createEntity(options, function(error, comment, data){
+            if(error) {
+              alert("error");
+            } else {
+              getSingleLandmark(id, function(error, landmark, response){
+                landmark.connect("comment", comment, function(error, response){
+                  if(error) {
+                    alert("Error!");
+                  } else {
+                    user.connect("comment", comment, function(error, response){
+                      if(error) {
+                        alert("Error!");
+                      } else {
+                        history.back()
+                      }
+                    });
+                  }
+                })
+              });
+            }
+          });
+        });
+      });
+
+      $("#favorites").live("pageshow", function(){
+        apigee.getLoggedInUser(function(error, data, user){
+          user.getConnections("checkedin",function(error, data, entities){
+            console.log(entities);
+            if(error) {
+              alert("error fetching favs");
+            } else {
+              $("#favorites-list").empty();
+              for (var i = 0; i < entities.length; i++) {
+                var favorite = entities[i];
+                var city = "<p>"+favorite.city+"</p>";
+                var name = "<h4>"+favorite.resource+"</h4>";
+                $("#favorites-list").append("<li>"+name+city+"</li>");
+              };
+              $("#favorites-list").listview("refresh");
+            }
+          })
+        });
+      });
+
+      $("#page1").live("pageshow", function(){
+        navigator.geolocation.getCurrentPosition(queryLocation);
+      });
+
+      $("#landmark").live("pageshow", function(){
+        var id = $("#landmark").data("apigee");
+        getSingleLandmark(id, function(error, landmark, response){
+          landmark.getConnections("comment", function(error, data, entities){
+            if(error) {
+              alert("error fetching favs");
+            } else {
+              $("#comments-list").empty();
+              for (var i = 0; i < entities.length; i++) {
+                var comment = entities[i];
+                var content = "<h4>"+decodeURIComponent(comment.content)+"</h4>";
+                var author = "<p>"+comment.by+"</p>";
+                $("#comments-list").append("<li>"+author+content+"</li>");
+              };
+              $("#comments-list").listview("refresh");
+            }
+          });
+        });
+      });
+
+      $("#save").live("click", function(){
+        var id = $("#landmark").data("apigee");
+        apigee.getLoggedInUser(function(error, response, user){
+          getSingleLandmark(id, function(error, landmark, response){
+            user.connect("checkedin", landmark, function(error, data){
+              if(error) {
+                alert("error!");
+              } else {
+                history.back();
+              }
+            });
+          });
+        });
+      });
+
+      //Here is the signin logic
+      $("#submitProfile").click(function(){
+        var modeSelected = $('input[name=profileRadio]:checked').val();
+        var username = $("#username").val();
+        var password = $("#password").val();
+        if(modeSelected == "login") {
+          apigee.login(username, password, function(error, response){
+            if(!error) {
+              $.mobile.changePage("#page1");
+              $("#username").val("");
+              $("#password").val("");
+            } else {
+              alert("error logging in");
+            }
+          });
+        } else {
+          var email = $("#email").val();
+          var name = $("#name").val();
+          apigee.signup(username, password, email, name, function(error, response){
+            if(!error) {
+              $.mobile.changePage("#page1");
+              $("#username").val("");
+              $("#password").val("");
+              $("#email").val("");
+              $("#name").val("");
+            } else {
+              alert("error logging in");
+            }
+          });
+        }
+      });
+
+      $("#loginRadio").click(function(){
+        var loginTemplate = '<label for="username">Username:</label><input type="text" name="username" id="username" value="">'+
+        '<label for="password">Password:</label><input type="password" name="password" id="password" value="">';
+        $("#form").empty();
+        $(loginTemplate).appendTo("#form");
+        $("#username").textinput();
+        $("#password").textinput();
+      });
+
+
+      $("#signupRadio").click(function(){
+        var signupTemplate = '<label for="email">Email:</label><input type="text" name="email" id="email" value="">'+
+        '<label for="username">Username:</label><input type="text" name="username" id="username" value="">'+
+        '<label for="name">Name:</label><input type="text" name="name" id="name" value="">'+
+        '<label for="text-1">Password:</label><input type="password" name="password" id="password" value="">';
+        $("#form").empty();
+        $(signupTemplate).appendTo("#form");
+        $("#email").textinput();
+        $("#username").textinput();
+        $("#name").textinput();
+        $("#password").textinput();        
+      });
+    });
+  </script>
+</head>
+<body>
+  <!-- Home -->
+  <div data-role="page" id="signup">
+    <div data-theme="e" data-role="header">
+      <h3>
+        Signup or Login
+      </h3>
+    </div>
+
+    <div data-role="content">
+      <div id="form">
+        <label for="email">Username:</label>
+        <input type="text" name="email" id="username" value="">
+        <label for="text-1">Password:</label>
+        <input type="password" name="password" id="password" value="">
+      </div>
+      <fieldset data-role="controlgroup" data-type="horizontal">
+        <input type="radio" name="profileRadio" id="loginRadio" value="login" checked="checked">
+        <label for="loginRadio">Login</label>
+        <input type="radio" name="profileRadio" id="signupRadio" value="signup">
+        <label for="signupRadio">Signup</label>
+      </fieldset>
+      <button id="submitProfile">Submit</button>
+    </div>
+  </div>
+  <div data-role="page" id="page1">
+      <div data-theme="e" data-role="header">
+          <h3>
+              Location Based Lookup
+          </h3>
+          <a href="#page2" id="btn-compose" data-icon="plus" data-iconpos="right" data-inline="true" data-role="button" data-rel="dialog" data-transition="fade" class="ui-btn-right">Login</a>
+      </div>
+      <div data-role="content">
+          <ul data-role="listview" data-divider-theme="b" data-inset="false" id="entity-list">
+              
+          </ul>
+      </div>
+      <div data-role="footer">    
+        <div data-role="navbar">
+          <ul>
+            <li><a href="#" class="ui-btn-active">Near Me</a></li>
+            <li><a href="#favorites">Favorites</a></li>
+          </ul>
+        </div><!-- /navbar -->
+      </div>
+  </div>
+  <div data-role="page" id="favorites">
+    <div data-theme="e" data-role="header">
+      <h3 id="landmarkName"></h3>
+    </div>
+    <div data-role="content">
+      <ul data-role="listview" data-divider-theme="b" data-inset="false" id="favorites-list">        
+      </ul>
+    </div>
+    <div data-role="footer">    
+      <div data-role="navbar">
+        <ul>
+          <li><a href="#page1" >Near Me</a></li>
+          <li><a href="#" class="ui-btn-active">Favorites</a></li>
+        </ul>
+      </div><!-- /navbar -->
+    </div>
+  </div>
+  <div data-role="page" id="landmark">
+    <div data-theme="e" data-role="header">
+      <h3 id="landmarkName"></h3>
+    </div>
+    <div data-role="content">
+      <h4 id="name"></h4>
+      <p id="city"></p>
+      <p id="addr"></p>
+      <img id="map" height="200" width="200"></img>
+      <br/>
+      <br/>
+      <button id="save">Checkin</button>
+      <br/>
+      <br/>
+      <label>Comment:</label>
+      <textarea id="commentary"></textarea>
+      <br/>
+      <button id="comment">Submit</button>
+      <br/>
+      <ul data-role="listview" data-divider-theme="b" data-inset="false" id="comments-list">        
+      </ul>
+    </div>
+  </div>
+</body>
+</html>

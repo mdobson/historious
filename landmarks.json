@@ -1,0 +1,4981 @@
+[ {
+  "listed" : "20101213",
+  "id" : "1448",
+  "address" : "36000 W Jefferson Ave",
+  "county" : "Wayne",
+  "resource" : "Hull's Trace North Huron River Corduroy Segment",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    "longitude" : "-83.21236302",
+    "latitude" : "42.04580411"
+  },
+  "city" : "Brownstown Township"
+}
+, {
+  "listed" : "20000609",
+  "id" : "1449",
+  "address" : "48145 Warren Rd.",
+  "county" : "Wayne",
+  "resource" : "Bradford, Benjamin and Mary  Ann, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.51532552",
+    "latitude" : "42.33564434"
+  },
+  "multiple" : "Canton Township MPS",
+  "city" : "Canton"
+}
+, {
+  "listed" : "20000609",
+  "id" : "1450",
+  "address" : "7675 N. Ridge Rd.",
+  "county" : "Wayne",
+  "resource" : "Kinyon, Orrin, and Roxanne Fairman, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.52792365",
+    "latitude" : "42.33935075"
+  },
+  "multiple" : "Canton Township MPS",
+  "city" : "Canton"
+}
+, {
+  "listed" : "20000609",
+  "id" : "1451",
+  "address" : "6205 N. Ridge Rd.",
+  "county" : "Wayne",
+  "resource" : "Patterson, John, and Eliza Barr, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.52740304",
+    "latitude" : "42.32603968"
+  },
+  "multiple" : "Canton Township MPS",
+  "city" : "Canton"
+}
+, {
+  "listed" : "20030402",
+  "id" : "1452",
+  "address" : "1224 Haggerty Rd.",
+  "county" : "Wayne",
+  "resource" : "Truesdell, Ephraim and Emma Woodworth, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.44792362",
+    "latitude" : "42.29880018"
+  },
+  "multiple" : "Canton Township MPS",
+  "city" : "Canton"
+}
+, {
+  "listed" : "20030402",
+  "id" : "1453",
+  "address" : "Cherry Hill and Ridge Rds.",
+  "county" : "Wayne",
+  "resource" : "Cherry Hill Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.53781268",
+    "latitude" : "42.30608299"
+  },
+  "city" : "Canton Township"
+}
+, {
+  "listed" : "20030402",
+  "id" : "1454",
+  "address" : "50325 Cherry Hill Rd.",
+  "county" : "Wayne",
+  "resource" : "Clyde, Thomas and Isabella Moore, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.53515565",
+    "latitude" : "42.30610359"
+  },
+  "multiple" : "Canton Township MPS",
+  "city" : "Canton Township"
+}
+, {
+  "listed" : "20000210",
+  "id" : "1455",
+  "address" : "Lilley Rd. over Lower Rouge R.",
+  "county" : "Wayne",
+  "resource" : "Lilley Road--Lower Rouge River",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.45794444",
+    "latitude" : "42.30809464"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Canton Township"
+}
+, {
+  "listed" : "20000602",
+  "id" : "1456",
+  "address" : "500 N. Ridge Rd. (Canton Township)",
+  "county" : "Wayne",
+  "resource" : "Bartlett, Thomas and Maria Blackman, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.5363654",
+    "latitude" : "42.30610512"
+  },
+  "multiple" : "Canton Township MPS",
+  "city" : "Cherry Hill"
+}
+, {
+  "listed" : "19701015",
+  "id" : "1457",
+  "address" : "21950 Michigan Ave.",
+  "county" : "Wayne",
+  "resource" : "Commandant's Quarters",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.24359287",
+    "latitude" : "42.30632817"
+  },
+  "city" : "Dearborn"
+}
+, {
+  "listed" : "19821210",
+  "id" : "1458",
+  "address" : "20301 Oakwood Blvd.",
+  "county" : "Wayne",
+  "resource" : "Dearborn Inn and Colonial Homes",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.22807615",
+    "latitude" : "42.29815517"
+  },
+  "city" : "Dearborn"
+}
+, {
+  "listed" : "19661113",
+  "id" : "1459",
+  "address" : "4901 Evergreen Rd.",
+  "county" : "Wayne",
+  "resource" : "Fair Lane",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.22732289",
+    "latitude" : "42.31332521"
+  },
+  "city" : "Dearborn"
+}
+, {
+  "listed" : "19780602",
+  "id" : "1460",
+  "address" : "3001 Miller Rd.",
+  "county" : "Wayne",
+  "resource" : "Ford River Rouge Complex",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.15771303",
+    "latitude" : "42.31026148"
+  },
+  "city" : "Dearborn"
+}
+, {
+  "listed" : "19691020",
+  "id" : "1461",
+  "address" : "Bounded by Michigan Ave. on the N, Village Rd. on the S, Southfield Expwy. on the E, and Oakland Blvd. on the W",
+  "county" : "Wayne",
+  "resource" : "Greenfield Village and Henry Ford Museum",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.17623353",
+    "latitude" : "42.3220831"
+  },
+  "city" : "Dearborn"
+}
+, {
+  "listed" : "20000204",
+  "id" : "1462",
+  "address" : "US 12 over I-94 and westbound I-94 ramp",
+  "county" : "Wayne",
+  "resource" : "US 12 Bridges",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.18734427",
+    "latitude" : "42.29524416"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Dearborn"
+}
+, {
+  "listed" : "20020214",
+  "id" : "1463",
+  "address" : "1395 Antietam St.",
+  "county" : "Wayne",
+  "resource" : "Leland, Nellie, School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03747451",
+    "latitude" : "42.34067153"
+  },
+  "city" : "Detriot"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1464",
+  "address" : "8100 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Alden Park Towers",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.99379002",
+    "latitude" : "42.35207669"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20050722",
+  "id" : "1465",
+  "address" : "16451 E. Warren Ave.",
+  "county" : "Wayne",
+  "resource" : "Alger Theater",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.93721812",
+    "latitude" : "42.40340256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20000218",
+  "id" : "1466",
+  "address" : "Antietam St. over Grand Trunk Railroad",
+  "county" : "Wayne",
+  "resource" : "Antietam Street--Grand Trunk Railroad",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19950504",
+  "id" : "1467",
+  "address" : "415 Brainard St.",
+  "county" : "Wayne",
+  "resource" : "Architects Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06221701",
+    "latitude" : "42.34657466"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820429",
+  "id" : "1468",
+  "address" : "Arden Park & E. Boston Aves. between Woodward and Oakland Aves.",
+  "county" : "Wayne",
+  "resource" : "Arden Park-East Boston Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19910805",
+  "id" : "1469",
+  "address" : "13770 Gratiot Ave.",
+  "county" : "Wayne",
+  "resource" : "Assumption of the Blessed Virgin Mary Church Complex",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-82.98250047",
+    "latitude" : "42.42763994"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20111212",
+  "id" : "1470",
+  "address" : "4900 E. Hildale Ave.",
+  "county" : "Wayne",
+  "resource" : "Atkinson, Edmund, School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05418567",
+    "latitude" : "42.42966377"
+  },
+  "multiple" : "Public Schools of Detroit MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19711105",
+  "id" : "1471",
+  "address" : "Woodward and Monroe Aves.",
+  "county" : "Wayne",
+  "resource" : "Bagley Memorial Fountain",
+  "state" : "MI",
+  "resourcetype" : "OBJECT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1472",
+  "address" : "2921 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Bagley, John N., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.01923735",
+    "latitude" : "42.33973772"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20050727",
+  "id" : "1473",
+  "address" : "65 Cadillac Sq.",
+  "county" : "Wayne",
+  "resource" : "Barlum Tower",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04483672",
+    "latitude" : "42.33171906"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19840531",
+  "id" : "1474",
+  "address" : "5440 Cass Ave.",
+  "county" : "Wayne",
+  "resource" : "Belcrest Hotel",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06876716",
+    "latitude" : "42.35978784"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19740225",
+  "id" : "1475",
+  "address" : "Detroit River",
+  "county" : "Wayne",
+  "resource" : "Belle Isle",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19750905",
+  "id" : "1476",
+  "address" : "Roughly bounded by Edison St., Woodward and Linwood Aves. and Glynn Ct.",
+  "county" : "Wayne",
+  "resource" : "Boston-Edison Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.09480397",
+    "latitude" : "42.38024189"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820319",
+  "id" : "1477",
+  "address" : "4614 Cass Ave",
+  "county" : "Wayne",
+  "resource" : "Boydell, William C., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0650665",
+    "latitude" : "42.35326879"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800310",
+  "id" : "1478",
+  "address" : "1308 Broadway St.",
+  "county" : "Wayne",
+  "resource" : "Breitmeyer-Tobin Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04568673",
+    "latitude" : "42.33481734"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20040701",
+  "id" : "1479",
+  "address" : "Broadway bet. Gratiot and Grand R.",
+  "county" : "Wayne",
+  "resource" : "Broadway Avenue Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1480",
+  "address" : "2910 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Campau, Joseph, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.019174",
+    "latitude" : "42.33970547"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19990318",
+  "id" : "1481",
+  "address" : "Roughly bounded by Grand River Ave., Woodward Ave., Michigan Ave., and Washington Blvd.",
+  "county" : "Wayne",
+  "resource" : "Capitol Park Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.05651129",
+    "latitude" : "42.33538346"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19831125",
+  "id" : "1482",
+  "address" : "229 Gratiot Ave.",
+  "county" : "Wayne",
+  "resource" : "Cary Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04587067",
+    "latitude" : "42.33440976"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19821210",
+  "id" : "1483",
+  "address" : "3901 Cass Ave.",
+  "county" : "Wayne",
+  "resource" : "Cass Avenue Methodist Episcopal Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06233564",
+    "latitude" : "42.34839447"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19860429",
+  "id" : "1484",
+  "address" : "5800 Cass Ave.",
+  "county" : "Wayne",
+  "resource" : "Cass Motor Sales",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07019651",
+    "latitude" : "42.3623275"
+  },
+  "multiple" : "University--Cultural Center Phase I MRA",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20050202",
+  "id" : "1485",
+  "address" : "Temple, Ledyard, and 2nd at Cass Park",
+  "county" : "Wayne",
+  "resource" : "Cass Park Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20110329",
+  "id" : "1486",
+  "address" : "2421 Second Ave",
+  "county" : "Wayne",
+  "resource" : "Cass, Lewis, Technical High School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05892639",
+    "latitude" : "42.33782462"
+  },
+  "multiple" : "Public Schools of Detroit MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970922",
+  "id" : "1487",
+  "address" : "Roughly bounded Cass Ave., Davenport, and Martin Luther King Jr. Blvd.",
+  "county" : "Wayne",
+  "resource" : "Cass--Davenport Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.05522222",
+    "latitude" : "42.33596331"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1488",
+  "address" : "4800 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Cathedral Church of St. Paul Complex",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0638675",
+    "latitude" : "42.3561989"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1489",
+  "address" : "9844-9854 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Cathedral of the Most Blessed Sacrament",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.08495034",
+    "latitude" : "42.38773612"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1490",
+  "address" : "Woodward Ave. E. Adams St.",
+  "county" : "Wayne",
+  "resource" : "Central United Methodist Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.08838543",
+    "latitude" : "42.39270429"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1491",
+  "address" : "9000 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Central Woodward Christian Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.08112321",
+    "latitude" : "42.38208374"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19850509",
+  "id" : "1492",
+  "address" : "333 Madison",
+  "county" : "Wayne",
+  "resource" : "Century Building and Little Theatre",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04598619",
+    "latitude" : "42.33735815"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970922",
+  "id" : "1493",
+  "address" : "46 Parsons",
+  "county" : "Wayne",
+  "resource" : "Chapel of St. Theresa--the Little Flower",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05940621",
+    "latitude" : "42.34829644"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800310",
+  "id" : "1494",
+  "address" : "511 Beaubien St.",
+  "county" : "Wayne",
+  "resource" : "Chapoton, Alexander, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04049337",
+    "latitude" : "42.33175246"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19910228",
+  "id" : "1495",
+  "address" : "10410 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Chateau Frontenac Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.97856355",
+    "latitude" : "42.36318557"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19860501",
+  "id" : "1496",
+  "address" : "630 Merrick",
+  "county" : "Wayne",
+  "resource" : "Chatsworth Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07083851",
+    "latitude" : "42.35715906"
+  },
+  "multiple" : "University--Cultural Center Phase II MRA",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1497",
+  "address" : "2681 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Chene, Alexander, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.02183716",
+    "latitude" : "42.33864005"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20000218",
+  "id" : "1498",
+  "address" : "Chestnut St. over Grand Trunk Railroad",
+  "county" : "Wayne",
+  "resource" : "Chestnut Street--Grand Trunk Railroad",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.03521279",
+    "latitude" : "42.34430429"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19710311",
+  "id" : "1499",
+  "address" : "960 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Christ Church, Detroit",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03502815",
+    "latitude" : "42.33279337"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19791102",
+  "id" : "1500",
+  "address" : "661 Civic Center Dr.",
+  "county" : "Wayne",
+  "resource" : "COLUMBIA (steamer)",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.0505411",
+    "latitude" : "42.32469357"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20111212",
+  "id" : "1501",
+  "address" : "15055 Hubbell Ave.",
+  "county" : "Wayne",
+  "resource" : "Cooley, Thomas M., High School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.18888352",
+    "latitude" : "42.40052961"
+  },
+  "multiple" : "Public Schools of Detroit MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19780731",
+  "id" : "1502",
+  "address" : "Roughly bounded by Lodge Freeway, Porter, Trumbull, Bagley, Rosa Parks Blvd., and Michigan Ave.",
+  "county" : "Wayne",
+  "resource" : "Corktown Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820422",
+  "id" : "1503",
+  "address" : "3751-73 Second Ave.",
+  "county" : "Wayne",
+  "resource" : "Coronado Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06392292",
+    "latitude" : "42.34646064"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20030303",
+  "id" : "1504",
+  "address" : "5766 Trumball Ave.",
+  "county" : "Wayne",
+  "resource" : "Crescent Brass and Pin Company Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.08252733",
+    "latitude" : "42.35885893"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19831220",
+  "id" : "1505",
+  "address" : "1394 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Croul-Palms House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03245513",
+    "latitude" : "42.33397539"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19831121",
+  "id" : "1506",
+  "address" : "5200, 5201 Woodward Ave., and 100 Farnsworth Ave.",
+  "county" : "Wayne",
+  "resource" : "Cultural Center Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20050202",
+  "id" : "1507",
+  "address" : "12800 Kelly Rd.",
+  "county" : "Wayne",
+  "resource" : "Denby, Edwin, High School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.95849961",
+    "latitude" : "42.42733142"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20050202",
+  "id" : "1508",
+  "address" : "712 Cass Ave.",
+  "county" : "Wayne",
+  "resource" : "Detroit Club",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05087202",
+    "latitude" : "42.32952147"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19741216",
+  "id" : "1509",
+  "address" : "733 St. Antoine St. at E. Lafayette St.",
+  "county" : "Wayne",
+  "resource" : "Detroit Cornice and Slate Company Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04018354",
+    "latitude" : "42.33441306"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970922",
+  "id" : "1510",
+  "address" : "50 W. Willis",
+  "county" : "Wayne",
+  "resource" : "Detroit Edison Company Willis Avenue Station",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06117099",
+    "latitude" : "42.35155093"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20091214",
+  "id" : "1511",
+  "address" : "Bounded by Woodward & Jefferson and Lafayette & Washington Blvd.",
+  "county" : "Wayne",
+  "resource" : "Detroit Financial District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19801128",
+  "id" : "1512",
+  "address" : "500 Temple Ave.",
+  "county" : "Wayne",
+  "resource" : "Detroit Masonic Temple",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06002403",
+    "latitude" : "42.34133754"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19940701",
+  "id" : "1513",
+  "address" : "7600 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Detroit Naval Armory",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.10968744",
+    "latitude" : "42.29401684"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20110525",
+  "id" : "1514",
+  "address" : "1 Riverbank Rd., Belle Isle",
+  "county" : "Wayne",
+  "resource" : "Detroit Yacht Club",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.97358397",
+    "latitude" : "42.34790469"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970922",
+  "id" : "1515",
+  "address" : "52 Seldon",
+  "county" : "Wayne",
+  "resource" : "Detroit--Columbia Central Office Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06015232",
+    "latitude" : "42.34929851"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20050720",
+  "id" : "1516",
+  "address" : "400 Bagley Ave.",
+  "county" : "Wayne",
+  "resource" : "Detroit--Leland Hotel",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05431468",
+    "latitude" : "42.33338798"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20111212",
+  "id" : "1517",
+  "address" : "10225 3rd St.",
+  "county" : "Wayne",
+  "resource" : "Doty, Duane, School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0919236",
+    "latitude" : "42.38680274"
+  },
+  "multiple" : "Public Schools of Detroit MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20090903",
+  "id" : "1518",
+  "address" : "1801-1803 Atwater St. and 1900 Atwater St.",
+  "county" : "Wayne",
+  "resource" : "Dry Dock Engine Works--Detroit Dry Dock Company Complex",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0275407",
+    "latitude" : "42.33290338"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19790619",
+  "id" : "1519",
+  "address" : "580 Frederick St.",
+  "county" : "Wayne",
+  "resource" : "Dunbar Hospital",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05230511",
+    "latitude" : "42.36423344"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800310",
+  "id" : "1520",
+  "address" : "E. Ferry Ave.",
+  "county" : "Wayne",
+  "resource" : "East Ferry Avenue Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19991130",
+  "id" : "1521",
+  "address" : "E. Grand Blvd., bet. E. Jefferson Ave. and Mack Ave.",
+  "county" : "Wayne",
+  "resource" : "East Grand Boulevard Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.07323339",
+    "latitude" : "42.3701658"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19781129",
+  "id" : "1522",
+  "address" : "Bounded by Gratiot Ave., Riopelle, Rivard, and Division Sts.",
+  "county" : "Wayne",
+  "resource" : "Eastern Market Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-82.99238385",
+    "latitude" : "42.41271373"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20070201",
+  "id" : "1523",
+  "address" : "Roughly bounded by Gratio Ave., Ropelle St., Wilkins St. Grand Trunk RR, and Division St.",
+  "county" : "Wayne",
+  "resource" : "Eastern Market Historic District (Boundary Increase)",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19821202",
+  "id" : "1524",
+  "address" : "Bounded by Elmwood and Mt. Elliot Aves., Lafayette and Waterloo Sts.",
+  "county" : "Wayne",
+  "resource" : "Eastside Historic Cemetery District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20060712",
+  "id" : "1525",
+  "address" : "100-118 Sproat St.",
+  "county" : "Wayne",
+  "resource" : "Eddystone Hotel",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05650221",
+    "latitude" : "42.34144316"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19741231",
+  "id" : "1526",
+  "address" : "4150 Grand River",
+  "county" : "Wayne",
+  "resource" : "Eighth Precinct Police Station",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07951073",
+    "latitude" : "42.3447987"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19910228",
+  "id" : "1527",
+  "address" : "210 E. Grand Blvd.",
+  "county" : "Wayne",
+  "resource" : "El Tovar Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.00371641",
+    "latitude" : "42.35007802"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19850515",
+  "id" : "1528",
+  "address" : "2100 Woodward",
+  "county" : "Wayne",
+  "resource" : "Elwood Bar",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05127104",
+    "latitude" : "42.33772022"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19780109",
+  "id" : "1529",
+  "address" : "2737 Gratiot Ave.",
+  "county" : "Wayne",
+  "resource" : "Engine House No. 11",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03125927",
+    "latitude" : "42.35373937"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19951129",
+  "id" : "1530",
+  "address" : "3812 Mt. Elliott Ave.",
+  "county" : "Wayne",
+  "resource" : "Engine House No. 18",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0225525",
+    "latitude" : "42.36287803"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19760430",
+  "id" : "1531",
+  "address" : "1249 Griswold St.",
+  "county" : "Wayne",
+  "resource" : "Farwell Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04960161",
+    "latitude" : "42.3334617"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20080129",
+  "id" : "1532",
+  "address" : "160 W. Fort St.",
+  "county" : "Wayne",
+  "resource" : "Federal Reserve Bank of Chicago Detroit Branch Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04838764",
+    "latitude" : "42.33031735"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1533",
+  "address" : "8601 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "First Baptist Church of Detroit",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07919303",
+    "latitude" : "42.37902249"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19790604",
+  "id" : "1534",
+  "address" : "33 E. Forest St.",
+  "county" : "Wayne",
+  "resource" : "First Congregational Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06276749",
+    "latitude" : "42.35489181"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19791219",
+  "id" : "1535",
+  "address" : "2930 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "First Presbyterian Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05566801",
+    "latitude" : "42.34416976"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1536",
+  "address" : "2870 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "First Unitarian Church of Detroit",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05519558",
+    "latitude" : "42.34353394"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19801014",
+  "id" : "1537",
+  "address" : "7430 2nd Ave. and 3011 W. Grand Blvd.",
+  "county" : "Wayne",
+  "resource" : "Fisher and New Center Buildings",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07740893",
+    "latitude" : "42.37084949"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19890629",
+  "id" : "1538",
+  "address" : "3011 West Grand Boulevard",
+  "county" : "Wayne",
+  "resource" : "Fisher Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07701617",
+    "latitude" : "42.36902738"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20020222",
+  "id" : "1539",
+  "address" : "411 Piquette Ave.",
+  "county" : "Wayne",
+  "resource" : "Ford Piquette Avenue Plant",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06552606",
+    "latitude" : "42.36834783"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19831125",
+  "id" : "1540",
+  "address" : "525 W. Lafayette St.",
+  "county" : "Wayne",
+  "resource" : "Fort Shelby Hotel",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0529049",
+    "latitude" : "42.32944546"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19710903",
+  "id" : "1541",
+  "address" : "631 W. Fort St.",
+  "county" : "Wayne",
+  "resource" : "Fort Street Presbyterian Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05383439",
+    "latitude" : "42.3278848"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20000218",
+  "id" : "1542",
+  "address" : "Fort St. over Pleasant St. and N&W RR.",
+  "county" : "Wayne",
+  "resource" : "Fort Street--Pleasant Street and Norfolk & Western Railroad Viaduct",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19710506",
+  "id" : "1543",
+  "address" : "6053 W. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Fort Wayne",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.09603928",
+    "latitude" : "42.30187234"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19850214",
+  "id" : "1544",
+  "address" : "2111 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Fox Theater Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05144545",
+    "latitude" : "42.33773145"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19710416",
+  "id" : "1545",
+  "address" : "71 E. Ferry Ave.",
+  "county" : "Wayne",
+  "resource" : "Freer, Charles Lang, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06563778",
+    "latitude" : "42.36165717"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19860213",
+  "id" : "1546",
+  "address" : "1942 Grand River Ave.",
+  "county" : "Wayne",
+  "resource" : "GAR Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05502647",
+    "latitude" : "42.33480812"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20080703",
+  "id" : "1547",
+  "address" : "4104-4120 Woodward Ave",
+  "county" : "Wayne",
+  "resource" : "Garden Bowl",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05999562",
+    "latitude" : "42.35069159"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1548",
+  "address" : "2900 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Garden Court Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.01967462",
+    "latitude" : "42.33944553"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19840126",
+  "id" : "1549",
+  "address" : "840 Waterman St.",
+  "county" : "Wayne",
+  "resource" : "Garfield, James A., School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.10942641",
+    "latitude" : "42.30612924"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19780602",
+  "id" : "1550",
+  "address" : "3044 W. Grand Blvd.",
+  "county" : "Wayne",
+  "resource" : "General Motors Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0757066",
+    "latitude" : "42.36920475"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20050722",
+  "id" : "1551",
+  "address" : "485-495 Milwaukee",
+  "county" : "Wayne",
+  "resource" : "General Motors Research Laboratory",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07565251",
+    "latitude" : "42.36788546"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19930722",
+  "id" : "1552",
+  "address" : "4612 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "George, Edwin S., Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06244851",
+    "latitude" : "42.35404047"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820422",
+  "id" : "1553",
+  "address" : "4461 Twenty-Eighth St.",
+  "county" : "Wayne",
+  "resource" : "Gethsemane Evangelical Lutheran Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19910819",
+  "id" : "1554",
+  "address" : "236 Adelaide",
+  "county" : "Wayne",
+  "resource" : "Ginsburg, Bernard, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05113462",
+    "latitude" : "42.34292469"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19841113",
+  "id" : "1555",
+  "address" : "407 E. Fort St.",
+  "county" : "Wayne",
+  "resource" : "Globe Tobacco Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04238689",
+    "latitude" : "42.33279712"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19830228",
+  "id" : "1556",
+  "address" : "Roughly bounded by Clifford, John R. and Adams Sts.",
+  "county" : "Wayne",
+  "resource" : "Grand Circus Park Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20001207",
+  "id" : "1557",
+  "address" : "25 W. Elizabeth St.",
+  "county" : "Wayne",
+  "resource" : "Grand Circus Park Historic District (Boundary Increase)",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.051995",
+    "latitude" : "42.33734548"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820422",
+  "id" : "1558",
+  "address" : "9222 Grand River Ave.",
+  "county" : "Wayne",
+  "resource" : "Grand Riviera Theater",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.13128553",
+    "latitude" : "42.36564807"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970922",
+  "id" : "1559",
+  "address" : "55 W. Canfield",
+  "county" : "Wayne",
+  "resource" : "Graybar Electric Company Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06276525",
+    "latitude" : "42.35210549"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820506",
+  "id" : "1560",
+  "address" : "Monroe Ave., between Brush and St. Antoine Sts.",
+  "county" : "Wayne",
+  "resource" : "Greektown Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20110329",
+  "id" : "1561",
+  "address" : "420 W 7 Mile Rd",
+  "county" : "Wayne",
+  "resource" : "Greenfield Union School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.10743351",
+    "latitude" : "42.43227668"
+  },
+  "multiple" : "Public Schools of Detroit MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19971201",
+  "id" : "1562",
+  "address" : "123 Parsons",
+  "county" : "Wayne",
+  "resource" : "Grindley, Robert M. and Matilda (Kitch), House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0608153",
+    "latitude" : "42.34761472"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800609",
+  "id" : "1563",
+  "address" : "1214 Griswold St.",
+  "county" : "Wayne",
+  "resource" : "Griswold Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04913975",
+    "latitude" : "42.33296067"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19890629",
+  "id" : "1564",
+  "address" : "500 Griswold St.",
+  "county" : "Wayne",
+  "resource" : "Guardian Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04629026",
+    "latitude" : "42.3294109"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800904",
+  "id" : "1565",
+  "address" : "267 E. Grand River Ave.",
+  "county" : "Wayne",
+  "resource" : "Harmonie Club, The",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04648375",
+    "latitude" : "42.33632962"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19910403",
+  "id" : "1566",
+  "address" : "97 Winder",
+  "county" : "Wayne",
+  "resource" : "Harvey, John, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05222513",
+    "latitude" : "42.34124795"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19710903",
+  "id" : "1567",
+  "address" : "5510 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Hecker, Col. Frank J., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06721802",
+    "latitude" : "42.36132891"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1568",
+  "address" : "8905 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Hibbard Apartment Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.98688512",
+    "latitude" : "42.35706503"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19971201",
+  "id" : "1569",
+  "address" : "3400-3434 Russell",
+  "county" : "Wayne",
+  "resource" : "Hook and Ladder House No. 5--Detroit Fire Department Repair Shop",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04321764",
+    "latitude" : "42.35054361"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970922",
+  "id" : "1570",
+  "address" : "40 Davenport",
+  "county" : "Wayne",
+  "resource" : "Hotel Stevenson",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05909339",
+    "latitude" : "42.34699852"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19750305",
+  "id" : "1571",
+  "address" : "79 Alfred St.",
+  "county" : "Wayne",
+  "resource" : "Hudson-Evans House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0533875",
+    "latitude" : "42.34332781"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19741231",
+  "id" : "1572",
+  "address" : "3985 Trumbull Ave.",
+  "county" : "Wayne",
+  "resource" : "Hunter House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07494528",
+    "latitude" : "42.34546435"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19940722",
+  "id" : "1573",
+  "address" : "77 W. Hancock Ave.",
+  "county" : "Wayne",
+  "resource" : "Hunter, Mulford T., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06452403",
+    "latitude" : "42.35536568"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19750327",
+  "id" : "1574",
+  "address" : "E. Jefferson at Cadillac Blvd.",
+  "county" : "Wayne",
+  "resource" : "Hurlbut Memorial Gate",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-82.98175468",
+    "latitude" : "42.36101302"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19720324",
+  "id" : "1575",
+  "address" : "Bounded by Mack, Burns, Jefferson, and Seminole Aves.",
+  "county" : "Wayne",
+  "resource" : "Indian Village Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1576",
+  "address" : "1405 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Jefferson Hall",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03240341",
+    "latitude" : "42.3340903"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970922",
+  "id" : "1577",
+  "address" : "938 Selden",
+  "county" : "Wayne",
+  "resource" : "Jefferson Intermediate School",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.06815523",
+    "latitude" : "42.34631784"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20040616",
+  "id" : "1578",
+  "address" : "E. Jefferson bet. Eastlawn and Alter",
+  "county" : "Wayne",
+  "resource" : "Jeffferson--Chalmers Historic Business District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19721018",
+  "id" : "1579",
+  "address" : "208 Mack Ave.",
+  "county" : "Wayne",
+  "resource" : "Kahn, Albert, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05556435",
+    "latitude" : "42.34833458"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1580",
+  "address" : "8925 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Kean, The",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.98669393",
+    "latitude" : "42.35721476"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19870612",
+  "id" : "1581",
+  "address" : "1274 Library",
+  "county" : "Wayne",
+  "resource" : "King, L. B. and Co. Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04736602",
+    "latitude" : "42.33450751"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19990409",
+  "id" : "1582",
+  "address" : "296 E. Grand Blvd.",
+  "county" : "Wayne",
+  "resource" : "Kingston Arms Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.00514883",
+    "latitude" : "42.35218957"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19791219",
+  "id" : "1583",
+  "address" : "2727 2nd Ave.",
+  "county" : "Wayne",
+  "resource" : "Kresge, S. S., World Headquarters",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06121496",
+    "latitude" : "42.3401443"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970821",
+  "id" : "1584",
+  "address" : "227-29 and 237-39 E. Palmer",
+  "county" : "Wayne",
+  "resource" : "Lancaster and Waumbek Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820422",
+  "id" : "1585",
+  "address" : "137 Cadillac Sq.",
+  "county" : "Wayne",
+  "resource" : "Lawyers Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04423805",
+    "latitude" : "42.33176178"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970922",
+  "id" : "1586",
+  "address" : "100 Parsons",
+  "county" : "Wayne",
+  "resource" : "League of Catholic Women Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06079687",
+    "latitude" : "42.34768728"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19811105",
+  "id" : "1587",
+  "address" : "2240 W. Grand Blvd.",
+  "county" : "Wayne",
+  "resource" : "Lee Plaza Hotel",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.10191641",
+    "latitude" : "42.35943424"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19940722",
+  "id" : "1588",
+  "address" : "71 W. Hancock Ave.",
+  "county" : "Wayne",
+  "resource" : "Loomer, George W., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06488452",
+    "latitude" : "42.35523487"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19990212",
+  "id" : "1589",
+  "address" : "1202-1449 and 1400-1456 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Lower Woodward Avenue Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.04868838",
+    "latitude" : "42.33414703"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19830707",
+  "id" : "1590",
+  "address" : "5057 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Maccabees Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06484306",
+    "latitude" : "42.35769276"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20080702",
+  "id" : "1591",
+  "address" : "4126-4140 Woodward Avenue",
+  "county" : "Wayne",
+  "resource" : "Majestic Theater",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0601481",
+    "latitude" : "42.35091937"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1592",
+  "address" : "2016 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Manchester Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.02621481",
+    "latitude" : "42.3366452"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19710311",
+  "id" : "1593",
+  "address" : "170 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Mariners' Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04328919",
+    "latitude" : "42.32893056"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800703",
+  "id" : "1594",
+  "address" : "4605 Cass Ave.",
+  "county" : "Wayne",
+  "resource" : "McAdow, Perry, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06518513",
+    "latitude" : "42.35334365"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20101213",
+  "id" : "1595",
+  "address" : "495 Ferry Mall",
+  "county" : "Wayne",
+  "resource" : "McGregor Memorial Conference Center",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07018743",
+    "latitude" : "42.35992098"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19831125",
+  "id" : "1596",
+  "address" : "206 E. Grand River Blvd.",
+  "county" : "Wayne",
+  "resource" : "Merchants Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04684891",
+    "latitude" : "42.33544911"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1597",
+  "address" : "8000 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Metropolitan United Methodist Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07603831",
+    "latitude" : "42.37443958"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20091208",
+  "id" : "1598",
+  "address" : "882 Oakman Blvd.",
+  "county" : "Wayne",
+  "resource" : "Michigan Bell and Western Electric Warehouse",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.11397948",
+    "latitude" : "42.40240222"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19840531",
+  "id" : "1599",
+  "address" : "Woodward Ave. at Campus Martius",
+  "county" : "Wayne",
+  "resource" : "Michigan Soldiers' and Sailors' Monument",
+  "state" : "MI",
+  "resourcetype" : "OBJECT",
+  "location" : {
+    
+    "longitude" : "-83.04784469",
+    "latitude" : "42.33292576"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800606",
+  "id" : "1600",
+  "address" : "Michigan State Fairgrounds",
+  "county" : "Wayne",
+  "resource" : "Michigan State Fair Riding Coliseum, Dairy Cattle Building, and Agricultural Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20081126",
+  "id" : "1601",
+  "address" : "2951-3424 Woodward, 14 Charlotte, 10 and 25 Peterboro",
+  "county" : "Wayne",
+  "resource" : "Midtown Woodward Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.05560987",
+    "latitude" : "42.3439"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19960801",
+  "id" : "1602",
+  "address" : "Roughly bounded by Lafayette Ave., Rivard, Antietam, and Orleans Sts.",
+  "county" : "Wayne",
+  "resource" : "Mies van der Rohe Residential District, Lafayette Park",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20111212",
+  "id" : "1603",
+  "address" : "2322 DuBois St",
+  "county" : "Wayne",
+  "resource" : "Miller, Sidney D., Junior High and High School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03222487",
+    "latitude" : "42.34915009"
+  },
+  "multiple" : "Public Schools of Detroit MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19750213",
+  "id" : "1604",
+  "address" : "16--118 Monroe Ave.",
+  "county" : "Wayne",
+  "resource" : "Monroe Avenue Commercial Buildings",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19720113",
+  "id" : "1605",
+  "address" : "1460 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Moross House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03129414",
+    "latitude" : "42.33447526"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20111130",
+  "id" : "1606",
+  "address" : "6118 30th St.",
+  "county" : "Wayne",
+  "resource" : "Nacirema Club",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.1164092",
+    "latitude" : "42.34968331"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20010530",
+  "id" : "1607",
+  "address" : "435, 450 Amstersam;440, 41-47 Burroughs;5911-5919, 6050-6160 Cass; 6100-6200 Second; 425 York",
+  "county" : "Wayne",
+  "resource" : "New Amsterdam Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20080703",
+  "id" : "1608",
+  "address" : "100 E. Willis",
+  "county" : "Wayne",
+  "resource" : "Newberry, Helen, Nurses Home",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0589356",
+    "latitude" : "42.35239459"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19920128",
+  "id" : "1609",
+  "address" : "17815 Mt. Elliott Ave.",
+  "county" : "Wayne",
+  "resource" : "Norris, Philetus W., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03859293",
+    "latitude" : "42.42506012"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1610",
+  "address" : "8715 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "North Woodward Congregational Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07978389",
+    "latitude" : "42.37990245"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19710416",
+  "id" : "1611",
+  "address" : "3711 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Orchestra Hall",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0587542",
+    "latitude" : "42.34861067"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19830521",
+  "id" : "1612",
+  "address" : "Roughly bounded by Pontchartrain Blvd., McNichols Rd. and Covington Dr.",
+  "county" : "Wayne",
+  "resource" : "Palmer Park Apartment Building Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.11642361",
+    "latitude" : "42.41757559"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20050211",
+  "id" : "1613",
+  "address" : "Approx. bounde by Covington Dr., Pontchartrain Blvd., Woodward Ave., and W. McNichols Rd.",
+  "county" : "Wayne",
+  "resource" : "Palmer Park Apartment Buildings Historic District (Boundary Increase)",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.10662407",
+    "latitude" : "42.41920364"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19830811",
+  "id" : "1614",
+  "address" : "Roughly bounded by Seven Mile Rd., Woodward Ave., and Strathcona Dr.",
+  "county" : "Wayne",
+  "resource" : "Palmer Woods Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.28723531",
+    "latitude" : "42.42857499"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19821124",
+  "id" : "1615",
+  "address" : "2111 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Palms, Francis, Building & State Theater",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05144545",
+    "latitude" : "42.33773145"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19841025",
+  "id" : "1616",
+  "address" : "2111 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Palms, Francis, Building and State Theater",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05144545",
+    "latitude" : "42.33773145"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1617",
+  "address" : "1001 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Palms, The",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03445691",
+    "latitude" : "42.33316799"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970513",
+  "id" : "1618",
+  "address" : "Park Ave., between W. Adams Ave. and W. Fisher Freeway",
+  "county" : "Wayne",
+  "resource" : "Park Avenue Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.05295187",
+    "latitude" : "42.3369446"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20060712",
+  "id" : "1619",
+  "address" : "2643 Park Ave.",
+  "county" : "Wayne",
+  "resource" : "Park Avenue Hotel",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05631185",
+    "latitude" : "42.34120163"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19850916",
+  "id" : "1620",
+  "address" : "Bounded by Joseph Campau Ave., Wight St., and McDougal Ave.",
+  "county" : "Wayne",
+  "resource" : "Parke-Davis and Company Pharmaceutical Company Plant",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19760511",
+  "id" : "1621",
+  "address" : "Joseph Campau St. at Detroit River",
+  "county" : "Wayne",
+  "resource" : "Parke-Davis Research Laboratory",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.01730421",
+    "latitude" : "42.33581611"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1622",
+  "address" : "8115 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Parker, Arthur M., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.99363223",
+    "latitude" : "42.352246"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19821112",
+  "id" : "1623",
+  "address" : "975 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Parker, Thomas A., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03500746",
+    "latitude" : "42.33293764"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1624",
+  "address" : "2170 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Pasadena Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.02472441",
+    "latitude" : "42.33729481"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19750416",
+  "id" : "1625",
+  "address" : "2405 W. Vernor St.",
+  "county" : "Wayne",
+  "resource" : "Penn Central Station",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07801189",
+    "latitude" : "42.32958527"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19710903",
+  "id" : "1626",
+  "address" : "10125 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Pewabic Pottery",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.98142456",
+    "latitude" : "42.36131509"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20040615",
+  "id" : "1627",
+  "address" : "Roughly bounded by Woodward, Harper, Hastings and the Grand Trunk Western Railroad Line",
+  "county" : "Wayne",
+  "resource" : "Piquette Avenue Industrial Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19870612",
+  "id" : "1628",
+  "address" : "3321 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Players, The",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0141776",
+    "latitude" : "42.3418973"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1629",
+  "address" : "1350 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Ponchartrain Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03328441",
+    "latitude" : "42.33360567"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20110503",
+  "id" : "1630",
+  "address" : "5203 Cass Ave.",
+  "county" : "Wayne",
+  "resource" : "Prentis Building and DeRoy Auditorium Complex",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06752484",
+    "latitude" : "42.35738756"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800708",
+  "id" : "1631",
+  "address" : "1208--1244 Randolph St.",
+  "county" : "Wayne",
+  "resource" : "Randolph Street Commercial Buildings Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.04097119",
+    "latitude" : "42.3284029"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19850131",
+  "id" : "1632",
+  "address" : "17354 Lahser Ave.",
+  "county" : "Wayne",
+  "resource" : "Redford Theatre Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.25762274",
+    "latitude" : "42.4172765"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19960725",
+  "id" : "1633",
+  "address" : "1250 Library Ave.",
+  "county" : "Wayne",
+  "resource" : "Remick, Jerome H., and Company, Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04702509",
+    "latitude" : "42.33437736"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20090415",
+  "id" : "1634",
+  "address" : "7700 E. Jefferson St.",
+  "county" : "Wayne",
+  "resource" : "River Terrace Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.99764398",
+    "latitude" : "42.34953295"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20060712",
+  "id" : "1635",
+  "address" : "Roughly bounded by Fenkell, Outer Dr. W, Grand River Ave., Southfield Fwy, Glastonbury, Lyndon, Westwood Dr.,",
+  "county" : "Wayne",
+  "resource" : "Rosedale Park Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19960725",
+  "id" : "1636",
+  "address" : "2305 Park Ave.",
+  "county" : "Wayne",
+  "resource" : "Royal Palm Hotel",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05406359",
+    "latitude" : "42.33835214"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800606",
+  "id" : "1637",
+  "address" : "1000 Eliot St.",
+  "county" : "Wayne",
+  "resource" : "Sacred Heart Roman Catholic Church, Convent and Rectory",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04613707",
+    "latitude" : "42.3509445"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19821202",
+  "id" : "1638",
+  "address" : "2701 W. Chicago Blvd.",
+  "county" : "Wayne",
+  "resource" : "Sacred Heart Seminary",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.1123268",
+    "latitude" : "42.37585275"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19860515",
+  "id" : "1639",
+  "address" : "5105 Anthony Wayne Dr.",
+  "county" : "Wayne",
+  "resource" : "Saint Andrew's Memorial Episcopal Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07212003",
+    "latitude" : "42.35570765"
+  },
+  "multiple" : "University--Cultural Center Phase II MRA",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19920128",
+  "id" : "1640",
+  "address" : "1828 Jay St.",
+  "county" : "Wayne",
+  "resource" : "Saint Joseph Roman Catholic Parish Complex (Boundary Increase)",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.03570544",
+    "latitude" : "42.34577533"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19990409",
+  "id" : "1641",
+  "address" : "356 E. Grand Blvd.",
+  "county" : "Wayne",
+  "resource" : "Saint Paul Manor Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.00608983",
+    "latitude" : "42.35362007"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19710903",
+  "id" : "1642",
+  "address" : "629 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Saints Peter And Paul Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03779085",
+    "latitude" : "42.33182272"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19860501",
+  "id" : "1643",
+  "address" : "681 Merrick",
+  "county" : "Wayne",
+  "resource" : "Sante Fe Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07188933",
+    "latitude" : "42.35671066"
+  },
+  "multiple" : "University--Cultural Center Phase II MRA",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19791120",
+  "id" : "1644",
+  "address" : "217 Farnsworth Ave",
+  "county" : "Wayne",
+  "resource" : "Scarab Club",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06261782",
+    "latitude" : "42.3594377"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19750319",
+  "id" : "1645",
+  "address" : "441 Monroe St.",
+  "county" : "Wayne",
+  "resource" : "Second Baptist Church Of Detroit",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04275776",
+    "latitude" : "42.33483692"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19710416",
+  "id" : "1646",
+  "address" : "976 Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Sibley House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03490495",
+    "latitude" : "42.3329146"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19910404",
+  "id" : "1647",
+  "address" : "6460 Kercheval Ave.",
+  "county" : "Wayne",
+  "resource" : "Sibley, Frederic M., Lumber Company Office Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.01352685",
+    "latitude" : "42.35336438"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19860429",
+  "id" : "1648",
+  "address" : "5035 Woodward",
+  "county" : "Wayne",
+  "resource" : "Smith, Samuel L., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06463857",
+    "latitude" : "42.35732462"
+  },
+  "multiple" : "University--Cultural Center Phase I MRA",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1649",
+  "address" : "1523 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Somerset Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03033701",
+    "latitude" : "42.33494749"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19860429",
+  "id" : "1650",
+  "address" : "80 W. Palmer",
+  "county" : "Wayne",
+  "resource" : "Sprague, Thomas S., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0685964",
+    "latitude" : "42.36188338"
+  },
+  "multiple" : "University--Cultural Center Phase I MRA",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19780118",
+  "id" : "1651",
+  "address" : "4231 St. Aubin St.",
+  "county" : "Wayne",
+  "resource" : "St. Albertus Roman Catholic Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04107233",
+    "latitude" : "42.35937157"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19821202",
+  "id" : "1652",
+  "address" : "1740 Mt. Elliot Ave",
+  "county" : "Wayne",
+  "resource" : "St. Bonaventure Monastery",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.01466097",
+    "latitude" : "42.35093039"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19890609",
+  "id" : "1653",
+  "address" : "2356 Vermont Ave.",
+  "county" : "Wayne",
+  "resource" : "St. Boniface Roman Catholic Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07338268",
+    "latitude" : "42.3311594"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19910405",
+  "id" : "1654",
+  "address" : "4151 Seminole",
+  "county" : "Wayne",
+  "resource" : "St. Catherine of Siena Roman Catholic Parish Complex",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.00569132",
+    "latitude" : "42.3716016"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19890609",
+  "id" : "1655",
+  "address" : "Baldwin Ave. at St. Paul Ave.",
+  "county" : "Wayne",
+  "resource" : "St. Charles Borromeo Roman Catholic Parish Complex",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.00166152",
+    "latitude" : "42.35545534"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1656",
+  "address" : "Woodward Ave. at E. Fisher Freeway",
+  "county" : "Wayne",
+  "resource" : "St. John's Episcopal Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05299202",
+    "latitude" : "42.3401561"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820422",
+  "id" : "1657",
+  "address" : "2120 Russell St.",
+  "county" : "Wayne",
+  "resource" : "St. John's-St. Luke's Evangelical Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03819062",
+    "latitude" : "42.3429181"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19821208",
+  "id" : "1658",
+  "address" : "715 E. Canfield Ave.",
+  "county" : "Wayne",
+  "resource" : "St. Josaphat's Roman Catholic Church Complex",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05271881",
+    "latitude" : "42.35623323"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1659",
+  "address" : "5930 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "St. Joseph's Episcopal Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06936032",
+    "latitude" : "42.36444101"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1660",
+  "address" : "8850 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "St. Joseph's Episcopal Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.08023884",
+    "latitude" : "42.38069026"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19721208",
+  "id" : "1661",
+  "address" : "1828 Jay St.",
+  "county" : "Wayne",
+  "resource" : "St. Joseph's Roman Catholic Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03570544",
+    "latitude" : "42.34577533"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19890714",
+  "id" : "1662",
+  "address" : "5818 Dubois St.",
+  "county" : "Wayne",
+  "resource" : "St. Stanislaus Bishop and Martyr Roman Catholic Parish Complex",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04723816",
+    "latitude" : "42.37173981"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19890714",
+  "id" : "1663",
+  "address" : "8666 Quincy Ave.",
+  "county" : "Wayne",
+  "resource" : "St. Theresa of Avila Roman Catholic Parish Complex",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.12001656",
+    "latitude" : "42.36370388"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19890629",
+  "id" : "1664",
+  "address" : "8363--8383 Townsend Ave.",
+  "county" : "Wayne",
+  "resource" : "St. Thomas the Apostle Catholic Church and Rectory",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820319",
+  "id" : "1665",
+  "address" : "151 W. Fort St.",
+  "county" : "Wayne",
+  "resource" : "State Savings Bank",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04844523",
+    "latitude" : "42.33023557"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19760603",
+  "id" : "1666",
+  "address" : "Howard and Ste. Anne Sts.",
+  "county" : "Wayne",
+  "resource" : "Ste. Anne Roman Catholic Church Complex",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07721209",
+    "latitude" : "42.32092278"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19791102",
+  "id" : "1667",
+  "address" : "661 Civic Center Dr.",
+  "county" : "Wayne",
+  "resource" : "STE. CLAIRE (steamer)",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.0505411",
+    "latitude" : "42.32469357"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1668",
+  "address" : "8109 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Stearns, Frederick K., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.99384185",
+    "latitude" : "42.35211585"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19801014",
+  "id" : "1669",
+  "address" : "6533 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Stearns, Frederick, Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.00706457",
+    "latitude" : "42.34499297"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19860429",
+  "id" : "1670",
+  "address" : "5415 Cass",
+  "county" : "Wayne",
+  "resource" : "Strasburg, Herman, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0687496",
+    "latitude" : "42.3595519"
+  },
+  "multiple" : "University--Cultural Center Phase I MRA",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970922",
+  "id" : "1671",
+  "address" : "64 Parsons",
+  "county" : "Wayne",
+  "resource" : "Sts. Peter and Paul Academy",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05966958",
+    "latitude" : "42.3481867"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19960404",
+  "id" : "1672",
+  "address" : "4221--4229 Cass Ave.",
+  "county" : "Wayne",
+  "resource" : "Stuber--Stone Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05522222",
+    "latitude" : "42.33596331"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20030303",
+  "id" : "1673",
+  "address" : "Bounded by Woodwar, Forest, John R. and Canfield",
+  "county" : "Wayne",
+  "resource" : "Sugar Hill Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19850404",
+  "id" : "1674",
+  "address" : "2905 Garland",
+  "county" : "Wayne",
+  "resource" : "Sweet, Ossian H., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.98425216",
+    "latitude" : "42.37029203"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19780131",
+  "id" : "1675",
+  "address" : "4440 Russell St.",
+  "county" : "Wayne",
+  "resource" : "Sweetest Heart Of Mary Roman Catholic Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04832341",
+    "latitude" : "42.35828217"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19750305",
+  "id" : "1676",
+  "address" : "59 Alfred St.",
+  "county" : "Wayne",
+  "resource" : "Taylor, Elisha, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05381711",
+    "latitude" : "42.34315735"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1677",
+  "address" : "3424 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Temple Beth-El",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05693842",
+    "latitude" : "42.34603909"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1678",
+  "address" : "8801 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Temple Beth-El",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.08029297",
+    "latitude" : "42.38065225"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820708",
+  "id" : "1679",
+  "address" : "453 Martin Luther King, Jr., Blvd.",
+  "county" : "Wayne",
+  "resource" : "The Clay School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0617275",
+    "latitude" : "42.345234"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800229",
+  "id" : "1680",
+  "address" : "2200 Hunt St.",
+  "county" : "Wayne",
+  "resource" : "Third Precinct Police Station",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03293427",
+    "latitude" : "42.35051489"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19760603",
+  "id" : "1681",
+  "address" : "4756 Cass Ave.",
+  "county" : "Wayne",
+  "resource" : "Thompson Home",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06562892",
+    "latitude" : "42.35436085"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19890206",
+  "id" : "1682",
+  "address" : "2121 Trumbull Ave.",
+  "county" : "Wayne",
+  "resource" : "Tiger Stadium",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.06773935",
+    "latitude" : "42.33274525"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800522",
+  "id" : "1683",
+  "address" : "1519 Myrtle St.",
+  "county" : "Wayne",
+  "resource" : "Trinity Episcopal Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07312692",
+    "latitude" : "42.34153111"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19830210",
+  "id" : "1684",
+  "address" : "1345 Gratiot Ave.",
+  "county" : "Wayne",
+  "resource" : "Trinity Evangelical Lutheran Church Complex",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03953164",
+    "latitude" : "42.34270124"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19790813",
+  "id" : "1685",
+  "address" : "553 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Trombly, Charles, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03895921",
+    "latitude" : "42.33123647"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19760528",
+  "id" : "1686",
+  "address" : "1380 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Trowbridge, Charles, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.03278454",
+    "latitude" : "42.33382566"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20110906",
+  "id" : "1687",
+  "address" : "609 E. Kirby",
+  "county" : "Wayne",
+  "resource" : "Tushiyah United Hebrew School--Scott Memorial Methodist Episcopal Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05884576",
+    "latitude" : "42.3630082"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19821112",
+  "id" : "1688",
+  "address" : "1024 Newport St.",
+  "county" : "Wayne",
+  "resource" : "Vanity Ballroom Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.94645211",
+    "latitude" : "42.37237278"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19860429",
+  "id" : "1689",
+  "address" : "92 W. Ferry",
+  "county" : "Wayne",
+  "resource" : "Verona Apartments",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06898714",
+    "latitude" : "42.36079794"
+  },
+  "multiple" : "University--Cultural Center Phase I MRA",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19830217",
+  "id" : "1690",
+  "address" : "600 Woodward Ave",
+  "county" : "Wayne",
+  "resource" : "Vinton Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04565102",
+    "latitude" : "42.33037148"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19821202",
+  "id" : "1691",
+  "address" : "Both sides of Virgia Park From Woodward Ave. to John Lodge Service Dr.",
+  "county" : "Wayne",
+  "resource" : "Virginia Park Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1692",
+  "address" : "2730 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Walker, Franklin H., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.02020484",
+    "latitude" : "42.33924476"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20070822",
+  "id" : "1693",
+  "address" : "15 E. Kirby Ave.",
+  "county" : "Wayne",
+  "resource" : "Wardell, The",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06615829",
+    "latitude" : "42.36013832"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19971201",
+  "id" : "1694",
+  "address" : "Bounded by Woodward, Warren, Third, and alley S of Prentis",
+  "county" : "Wayne",
+  "resource" : "Warren--Prentis Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820715",
+  "id" : "1695",
+  "address" : "Washington Blvd., State and Clifford Sts.",
+  "county" : "Wayne",
+  "resource" : "Washington Boulevard Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.04757261",
+    "latitude" : "42.32676593"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19750224",
+  "id" : "1696",
+  "address" : "600 Randolph St.",
+  "county" : "Wayne",
+  "resource" : "Wayne County Courthouse",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04312748",
+    "latitude" : "42.33149792"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19780623",
+  "id" : "1697",
+  "address" : "4735--4841 Cass Ave.",
+  "county" : "Wayne",
+  "resource" : "Wayne State University Buildings",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.05522222",
+    "latitude" : "42.33596331"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1698",
+  "address" : "2931 E. Jefferson Ave.",
+  "county" : "Wayne",
+  "resource" : "Wells, William H., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.01899719",
+    "latitude" : "42.33987457"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19710527",
+  "id" : "1699",
+  "address" : "Canfield Ave. between 2nd and 3rd Sts.",
+  "county" : "Wayne",
+  "resource" : "West Canfield Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19970922",
+  "id" : "1700",
+  "address" : "Roughly bounded by Third Ave., Calumet, Second Ave., and W. Canfield",
+  "county" : "Wayne",
+  "resource" : "West Canfield Historic District (Boundary Increase)",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20070201",
+  "id" : "1701",
+  "address" : "3426 Junction Ave.",
+  "county" : "Wayne",
+  "resource" : "West Side Dom Polski",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.11015967",
+    "latitude" : "42.3294109"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20021212",
+  "id" : "1702",
+  "address" : "W. Vernor Hwy., bet., Lansing and Cavalry",
+  "county" : "Wayne",
+  "resource" : "West Vernor--Junction Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.1420621",
+    "latitude" : "42.30539607"
+  },
+  "multiple" : "West Vernor Highway Survey Area, Detroit, Michigan MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20021212",
+  "id" : "1703",
+  "address" : "W. Vernor Hwy., bet. Cabot and Ferris",
+  "county" : "Wayne",
+  "resource" : "West Vernor--Lawndale Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.1420621",
+    "latitude" : "42.30539607"
+  },
+  "multiple" : "West Vernor Highway Survey Area, Detroit, Michigan MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20021212",
+  "id" : "1704",
+  "address" : "W. Vernor Hwy, vet. Honorah and Norman",
+  "county" : "Wayne",
+  "resource" : "West Vernor--Springwells Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.1420621",
+    "latitude" : "42.30539607"
+  },
+  "multiple" : "West Vernor Highway Survey Area, Detroit, Michigan MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19801014",
+  "id" : "1705",
+  "address" : "Roughly bounded by Jefferson, Kercheval, Parker and Seyburn Aves.",
+  "county" : "Wayne",
+  "resource" : "West Village District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19720821",
+  "id" : "1706",
+  "address" : "4421 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Whitney, David, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.06174132",
+    "latitude" : "42.35300157"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19851009",
+  "id" : "1707",
+  "address" : "415 Burns Dr.",
+  "county" : "Wayne",
+  "resource" : "Whittier Hotel",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.98868305",
+    "latitude" : "42.35360164"
+  },
+  "multiple" : "East Jefferson Avenue Residential TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19971201",
+  "id" : "1708",
+  "address" : "Bounded by alley N of W. Willis, Woodward, alley S of Selden, and Third Ave.",
+  "county" : "Wayne",
+  "resource" : "Willis--Selden Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "multiple" : "Cass Farm MPS",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19770809",
+  "id" : "1709",
+  "address" : "350 Madison Ave.",
+  "county" : "Wayne",
+  "resource" : "Wilson Theatre",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.04589635",
+    "latitude" : "42.33733512"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19791120",
+  "id" : "1710",
+  "address" : "2110 Park Ave",
+  "county" : "Wayne",
+  "resource" : "Women's City Club",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.05305924",
+    "latitude" : "42.3371301"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "20080320",
+  "id" : "1711",
+  "address" : "SE. corner of Trumbull & Warren",
+  "county" : "Wayne",
+  "resource" : "Woodbridge Neighborhood (Boundary Increase II)",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19800306",
+  "id" : "1712",
+  "address" : "Bounded by Trumbull,Calumet,Gibson,Grand River, 12th W. Warren and Wabashg Sts., RR Tracks, and Edsel Ford Expwy.",
+  "county" : "Wayne",
+  "resource" : "Woodbridge Neighborhood Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19971201",
+  "id" : "1713",
+  "address" : "4304-14 Trumbull Ave. and 3800 Grand River",
+  "county" : "Wayne",
+  "resource" : "Woodbridge Neighborhood Historic District (Boundary Increase)",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0758955",
+    "latitude" : "42.34330708"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1714",
+  "address" : "8501 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Woodward Ave. Presbyterian Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.07877378",
+    "latitude" : "42.37840284"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19750121",
+  "id" : "1715",
+  "address" : "Bounded by Alfred, Edmund, Watson, and Brush and John R Sts.",
+  "county" : "Wayne",
+  "resource" : "Woodward East Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0479116",
+    "latitude" : "42.33167256"
+  },
+  "city" : "Detroit"
+}
+, {
+  "listed" : "19801125",
+  "id" : "1716",
+  "address" : "29835 Beechwood Ave.",
+  "county" : "Wayne",
+  "resource" : "Ford, Henry, Square House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.33557597",
+    "latitude" : "42.32722369"
+  },
+  "city" : "Garden City"
+}
+, {
+  "listed" : "20000210",
+  "id" : "1717",
+  "address" : "Gibraltar Rd. over Waterway Canal",
+  "county" : "Wayne",
+  "resource" : "Gibraltar Road--Waterway Canal Bridge",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.20346423",
+    "latitude" : "42.09472605"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Gibraltar"
+}
+, {
+  "listed" : "19960725",
+  "id" : "1718",
+  "address" : "111 Lake Shore Rd.",
+  "county" : "Wayne",
+  "resource" : "Deming, Paul Harvey, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.89302057",
+    "latitude" : "42.39124574"
+  },
+  "city" : "Gross Pointe Farms"
+}
+, {
+  "listed" : "19740813",
+  "id" : "1719",
+  "address" : "E. River Rd.",
+  "county" : "Wayne",
+  "resource" : "East River Road Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.1565451",
+    "latitude" : "42.08658578"
+  },
+  "city" : "Grosse Ile"
+}
+, {
+  "listed" : "20000204",
+  "id" : "1720",
+  "address" : "E. River Rd. over N. Hickory Canal",
+  "county" : "Wayne",
+  "resource" : "East River Road-- North Hickory Canal Bridge",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.1565451",
+    "latitude" : "42.08658578"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Grosse Ile"
+}
+, {
+  "listed" : "20000218",
+  "id" : "1721",
+  "address" : "Ferry St. over Thorofare Canal",
+  "county" : "Wayne",
+  "resource" : "Ferry Street--Thorofare Canal Bridge",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.15392481",
+    "latitude" : "42.1305249"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Grosse Ile"
+}
+, {
+  "listed" : "20000204",
+  "id" : "1722",
+  "address" : "Parke Lane Rd. over Thorofare Ch.",
+  "county" : "Wayne",
+  "resource" : "Parke Lane Road--Thorofare Canal Bridge",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.15093389",
+    "latitude" : "42.11811202"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Grosse Ile"
+}
+, {
+  "listed" : "20000218",
+  "id" : "1723",
+  "address" : "South Pointe Dr. over Frenchman's Creek",
+  "county" : "Wayne",
+  "resource" : "South Pointe Drive--Frenchman's Creek Bridge",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.15392481",
+    "latitude" : "42.1305249"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Grosse Ile"
+}
+, {
+  "listed" : "19711119",
+  "id" : "1724",
+  "address" : "25150 E. River Rd.",
+  "county" : "Wayne",
+  "resource" : "St. James Episcopal Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.14162274",
+    "latitude" : "42.12444666"
+  },
+  "city" : "Grosse Ile"
+}
+, {
+  "listed" : "19870625",
+  "id" : "1725",
+  "address" : "171 Lake Shore Dr.",
+  "county" : "Wayne",
+  "resource" : "Academy of the Sacred Heart",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-82.89128983",
+    "latitude" : "42.39373468"
+  },
+  "city" : "Grosse Pointe Farms"
+}
+, {
+  "listed" : "19820708",
+  "id" : "1726",
+  "address" : "32 Lake Shore Dr.",
+  "county" : "Wayne",
+  "resource" : "Alger, Russell A., Jr., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.89960472",
+    "latitude" : "42.38722543"
+  },
+  "city" : "Grosse Pointe Farms"
+}
+, {
+  "listed" : "19950407",
+  "id" : "1727",
+  "address" : "23--45 Beverly Rd.",
+  "county" : "Wayne",
+  "resource" : "Beverly Road Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-82.90059291",
+    "latitude" : "42.3868433"
+  },
+  "city" : "Grosse Pointe Farms"
+}
+, {
+  "listed" : "19930910",
+  "id" : "1728",
+  "address" : "61 Grosse Pointe Rd.",
+  "county" : "Wayne",
+  "resource" : "Christ Church Chapel",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.89967843",
+    "latitude" : "42.39069688"
+  },
+  "city" : "Grosse Pointe Farms"
+}
+, {
+  "listed" : "19930520",
+  "id" : "1729",
+  "address" : "11 Grosse Pointe Blvd.",
+  "county" : "Wayne",
+  "resource" : "Grosse Pointe High School",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-82.90159614",
+    "latitude" : "42.38989755"
+  },
+  "city" : "Grosse Pointe Farms"
+}
+, {
+  "listed" : "19931206",
+  "id" : "1730",
+  "address" : "16 Lake Shore Dr.",
+  "county" : "Wayne",
+  "resource" : "Grosse Pointe Memorial Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.89960472",
+    "latitude" : "42.38722543"
+  },
+  "city" : "Grosse Pointe Farms"
+}
+, {
+  "listed" : "20091208",
+  "id" : "1731",
+  "address" : "203 Cloverly Rd.",
+  "county" : "Wayne",
+  "resource" : "Koebel, Charles J. and Ingrid V. (Frendberg), House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.8990081",
+    "latitude" : "42.40481535"
+  },
+  "city" : "Grosse Pointe Farms"
+}
+, {
+  "listed" : "19940722",
+  "id" : "1732",
+  "address" : "176 McKinley Ave.",
+  "county" : "Wayne",
+  "resource" : "Richard, Pere Gabriel, Elementary School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.90565845",
+    "latitude" : "42.39515886"
+  },
+  "city" : "Grosse Pointe Farms"
+}
+, {
+  "listed" : "19940617",
+  "id" : "1733",
+  "address" : "157 Lake Shore Rd.",
+  "county" : "Wayne",
+  "resource" : "Saint Paul Catholic Church Complex",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.89145857",
+    "latitude" : "42.39346941"
+  },
+  "city" : "Grosse Pointe Farms"
+}
+, {
+  "listed" : "20050824",
+  "id" : "1734",
+  "address" : "301 Lake Shore Rd.",
+  "county" : "Wayne",
+  "resource" : "Schmidt, Carl E. and Alice Candler, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.88725193",
+    "latitude" : "42.40446981"
+  },
+  "city" : "Grosse Pointe Farms"
+}
+, {
+  "listed" : "20050720",
+  "id" : "1735",
+  "address" : "33 Old Brook Ln.",
+  "county" : "Wayne",
+  "resource" : "Woodhouse, John T., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.88864273",
+    "latitude" : "42.40684064"
+  },
+  "city" : "Grosse Pointe Farms"
+}
+, {
+  "listed" : "20010502",
+  "id" : "1736",
+  "address" : "15425 Kercheval",
+  "county" : "Wayne",
+  "resource" : "Defer Elementary School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.93764556",
+    "latitude" : "42.38245823"
+  },
+  "city" : "Grosse Pointe Park"
+}
+, {
+  "listed" : "19840524",
+  "id" : "1737",
+  "address" : "938 Three Mile Dr.",
+  "county" : "Wayne",
+  "resource" : "Stratton, William B. and Mary Chase, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-82.92366877",
+    "latitude" : "42.37848921"
+  },
+  "city" : "Grosse Pointe Park"
+}
+, {
+  "listed" : "19840913",
+  "id" : "1738",
+  "address" : "Roughly bounded by Joseph Campau Ave., Holbrook Ave., Dequindre, Norwalk, Lumpkin, and Yemans Sts.",
+  "county" : "Wayne",
+  "resource" : "St. Florian Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0517216",
+    "latitude" : "42.39940347"
+  },
+  "city" : "Hamtramck"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1739",
+  "address" : "16300 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "First United Methodist Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.10332848",
+    "latitude" : "42.41497978"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Highland Park"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1740",
+  "address" : "12375 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Grace Evangelical Lutheran Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.0915775",
+    "latitude" : "42.397331"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Highland Park"
+}
+, {
+  "listed" : "19880208",
+  "id" : "1741",
+  "address" : "Bounded by Woodward Ave., the alley S of E. Buena Vista Ave., Oakland Ave., and the alley S of Massachusetts Ave.",
+  "county" : "Wayne",
+  "resource" : "Highland Heights--Stevens` Subdivision Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.08838543",
+    "latitude" : "42.39270429"
+  },
+  "city" : "Highland Park"
+}
+, {
+  "listed" : "19851031",
+  "id" : "1742",
+  "address" : "357 Glendale Ave.",
+  "county" : "Wayne",
+  "resource" : "Highland Park General Hospital",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.10516648",
+    "latitude" : "42.39540557"
+  },
+  "city" : "Highland Park"
+}
+, {
+  "listed" : "19730206",
+  "id" : "1743",
+  "address" : "15050 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Highland Park Plant, Ford Motor Company",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.10047363",
+    "latitude" : "42.41074634"
+  },
+  "city" : "Highland Park"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1744",
+  "address" : "14 Cortland St.",
+  "county" : "Wayne",
+  "resource" : "Highland Park Presbyterian Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.09170412",
+    "latitude" : "42.39668602"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Highland Park"
+}
+, {
+  "listed" : "19880208",
+  "id" : "1745",
+  "address" : "Roughly bounded by Hamilton Ave., the alley S of Louise Ave., Woodward Ave., and the alley S of Puritan Ave.",
+  "county" : "Wayne",
+  "resource" : "Medbury`s--Grove Lawn Subdivisions Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.0974713",
+    "latitude" : "42.38950618"
+  },
+  "city" : "Highland Park"
+}
+, {
+  "listed" : "19920122",
+  "id" : "1746",
+  "address" : "1981, 2003 and 2025 W. McNichols Rd.",
+  "county" : "Wayne",
+  "resource" : "Palmer Park Boulevard Apartments District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-85.43933463",
+    "latitude" : "42.41415457"
+  },
+  "city" : "Highland Park"
+}
+, {
+  "listed" : "19820803",
+  "id" : "1747",
+  "address" : "13100 Woodward Ave.",
+  "county" : "Wayne",
+  "resource" : "Trinity United Methodist Church",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.09396222",
+    "latitude" : "42.40113028"
+  },
+  "multiple" : "Religious Structures of Woodward Ave. TR",
+  "city" : "Highland Park"
+}
+, {
+  "listed" : "20000210",
+  "id" : "1748",
+  "address" : "Waltz Rd. over Huron R.",
+  "county" : "Wayne",
+  "resource" : "Waltz Road--Huron River Bridge",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.38606482",
+    "latitude" : "42.09379383"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Huron Township"
+}
+, {
+  "listed" : "20040204",
+  "id" : "1749",
+  "address" : "1335 Southfield Rd.",
+  "county" : "Wayne",
+  "resource" : "Lincoln Park Post Office",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.17870209",
+    "latitude" : "42.25043959"
+  },
+  "city" : "Lincoln Park"
+}
+, {
+  "listed" : "20050720",
+  "id" : "1750",
+  "address" : "1661 Fort St.",
+  "county" : "Wayne",
+  "resource" : "Mellus Newspapers Building",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.17545153",
+    "latitude" : "42.25174091"
+  },
+  "city" : "Lincoln Park"
+}
+, {
+  "listed" : "19801014",
+  "id" : "1751",
+  "address" : "39040 W. Seven Mile Rd.",
+  "county" : "Wayne",
+  "resource" : "Everitt, Orson, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.43011601",
+    "latitude" : "42.42496915"
+  },
+  "city" : "Livonia"
+}
+, {
+  "listed" : "19720324",
+  "id" : "1752",
+  "address" : "38125 Base Line Rd.",
+  "county" : "Wayne",
+  "resource" : "Greenmead Farms",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.36956111",
+    "latitude" : "42.39657599"
+  },
+  "city" : "Livonia"
+}
+, {
+  "listed" : "20100719",
+  "id" : "1753",
+  "address" : "Arden to Hubbard Sts between Plymouth Rd and W Chicago St",
+  "county" : "Wayne",
+  "resource" : "Rosedale Gardens Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.36956111",
+    "latitude" : "42.39657599"
+  },
+  "city" : "Livonia"
+}
+, {
+  "listed" : "19731212",
+  "id" : "1754",
+  "address" : "NE corner of Middlebelt and W. Chicago Rds.",
+  "county" : "Wayne",
+  "resource" : "Wilson Barn",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.36956111",
+    "latitude" : "42.39657599"
+  },
+  "city" : "Livonia"
+}
+, {
+  "listed" : "19950801",
+  "id" : "1755",
+  "address" : "235 E. Main St.",
+  "county" : "Wayne",
+  "resource" : "Ford Valve Plant",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.48014157",
+    "latitude" : "42.43129209"
+  },
+  "city" : "Northville"
+}
+, {
+  "listed" : "19720731",
+  "id" : "1756",
+  "address" : "Bounded roughly by Cady, Rogers, and Randolph Sts.",
+  "county" : "Wayne",
+  "resource" : "Northville Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.48518155",
+    "latitude" : "42.43096383"
+  },
+  "city" : "Northville"
+}
+, {
+  "listed" : "19820422",
+  "id" : "1757",
+  "address" : "233 S. Main St.",
+  "county" : "Wayne",
+  "resource" : "Baker, Henry W., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.46810272",
+    "latitude" : "42.37173983"
+  },
+  "city" : "Plymouth"
+}
+, {
+  "listed" : "19931202",
+  "id" : "1758",
+  "address" : "168 S. Union St.",
+  "county" : "Wayne",
+  "resource" : "Curtiss, Charles G., Sr., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.46596848",
+    "latitude" : "42.37185386"
+  },
+  "city" : "Plymouth"
+}
+, {
+  "listed" : "19940628",
+  "id" : "1759",
+  "address" : "12305 Beck Rd.",
+  "county" : "Wayne",
+  "resource" : "Wall, Carlton D., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.50969334",
+    "latitude" : "42.37139776"
+  },
+  "city" : "Plymouth"
+}
+, {
+  "listed" : "19970328",
+  "id" : "1760",
+  "address" : "18499 Beech Daly Rd.",
+  "county" : "Wayne",
+  "resource" : "Redford Township District No. 5 School",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.29690272",
+    "latitude" : "42.42377795"
+  },
+  "city" : "Redford"
+}
+, {
+  "listed" : "20000210",
+  "id" : "1761",
+  "address" : "W. Jefferson Ave. over Rouge R.",
+  "county" : "Wayne",
+  "resource" : "West Jefferson Avenue--Rouge River Bridge",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.13753478",
+    "latitude" : "42.26167504"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "River Rouge"
+}
+, {
+  "listed" : "20000602",
+  "id" : "1762",
+  "address" : "3339 S. Canton Center Rd. (Canton Township)",
+  "county" : "Wayne",
+  "resource" : "Boldman, David and Elizabeth Bell, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.47577437",
+    "latitude" : "42.27401574"
+  },
+  "multiple" : "Canton Township MPS",
+  "city" : "Sheldon"
+}
+, {
+  "listed" : "20000602",
+  "id" : "1763",
+  "address" : "4896--5228 S. Sheldon Rd. (Canton Township)",
+  "county" : "Wayne",
+  "resource" : "Fischer, John and Edna Trusdell, Farmstead",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.47577437",
+    "latitude" : "42.27401574"
+  },
+  "multiple" : "Canton Township MPS",
+  "city" : "Sheldon"
+}
+, {
+  "listed" : "20000602",
+  "id" : "1764",
+  "address" : "44134 Michigan Ave. (Canton Township)",
+  "county" : "Wayne",
+  "resource" : "Sheldon Inn",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.47577437",
+    "latitude" : "42.27401574"
+  },
+  "multiple" : "Canton Township MPS",
+  "city" : "Sheldon"
+}
+, {
+  "listed" : "20000602",
+  "id" : "1765",
+  "address" : "3704 S. Sheldon Rd. (Canton Township)",
+  "county" : "Wayne",
+  "resource" : "Smith, George and Mary Pine, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.47577437",
+    "latitude" : "42.27401574"
+  },
+  "multiple" : "Canton Township MPS",
+  "city" : "Sheldon"
+}
+, {
+  "listed" : "20060518",
+  "id" : "1766",
+  "address" : "Julius, Matthew, Hanover, Farnum, Alan, and Paul",
+  "county" : "Wayne",
+  "resource" : "Annapolis Park Historic District",
+  "state" : "MI",
+  "resourcetype" : "DISTRICT",
+  "location" : {
+    
+    "longitude" : "-83.40136152",
+    "latitude" : "42.32419484"
+  },
+  "city" : "Westland"
+}
+, {
+  "listed" : "20000602",
+  "id" : "1767",
+  "address" : "1638 N. Haggerty Rd. (Canton Township)",
+  "county" : "Wayne",
+  "resource" : "Dingledey, Phillip and Maria Hasselbach, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.40136152",
+    "latitude" : "42.32419484"
+  },
+  "multiple" : "Canton Township MPS",
+  "city" : "Westland"
+}
+, {
+  "listed" : "20090716",
+  "id" : "1768",
+  "address" : "109 Vinewood Ave.",
+  "county" : "Wayne",
+  "resource" : "Eberts, John and Emma Lacey, House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.15038544",
+    "latitude" : "42.20757377"
+  },
+  "city" : "Wyandotte"
+}
+, {
+  "listed" : "19971201",
+  "id" : "1769",
+  "address" : "45 Vinewood",
+  "county" : "Wayne",
+  "resource" : "Ford--Bacon House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.14801624",
+    "latitude" : "42.20763366"
+  },
+  "city" : "Wyandotte"
+}
+, {
+  "listed" : "19840524",
+  "id" : "1770",
+  "address" : "2610 Biddle Ave.",
+  "county" : "Wayne",
+  "resource" : "MacNichol, George P., House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.14851265",
+    "latitude" : "42.20744016"
+  },
+  "city" : "Wyandotte"
+}
+, {
+  "listed" : "19760813",
+  "id" : "1771",
+  "address" : "2630 Biddle Ave.",
+  "county" : "Wayne",
+  "resource" : "Marx House",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.14850344",
+    "latitude" : "42.20703013"
+  },
+  "city" : "Wyandotte"
+}
+, {
+  "listed" : "20090716",
+  "id" : "1772",
+  "address" : "81 Chestnut St.",
+  "county" : "Wayne",
+  "resource" : "Wyandotte Odd Fellows Temple",
+  "state" : "MI",
+  "resourcetype" : "BUILDING",
+  "location" : {
+    
+    "longitude" : "-83.14944559",
+    "latitude" : "42.2052944"
+  },
+  "city" : "Wyandotte"
+}
+, {
+  "listed" : "20000210",
+  "id" : "1784",
+  "address" : "Jefferson Ave. over Huron R.; Harbin Dr. over Silver Creek Canal",
+  "county" : "Wayne",
+  "resource" : "Jefferson Avenue--Huron River and Harbin Drive--Silver Creek Canal Bridges",
+  "state" : "MI",
+  "resourcetype" : "STRUCTURE",
+  "location" : {
+    
+    "longitude" : "-83.21138018",
+    "latitude" : "42.04778471"
+  },
+  "multiple" : "Highway Bridges of Michigan MPS",
+  "city" : "Brownstone"
+}
+ ]
